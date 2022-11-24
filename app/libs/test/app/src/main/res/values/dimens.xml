@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius_size">20dp</dimen>
+    <dimen name="padding_left">30dp</dimen>
+    <dimen name="image_size">20dp</dimen>
+    <dimen name="small_padding">5dp</dimen>
+    <dimen name="distance_5">5dp</dimen>
+    <dimen name="distance_10">10dp</dimen>
+    <dimen name="distance_15">15dp</dimen>
+    <dimen name="distance_20">20dp</dimen>
+    <dimen name="distance_25">25dp</dimen>
+    <dimen name="distance_30">30dp</dimen>
+
+    <dimen name="txtsize_8">8sp</dimen>
+    <dimen name="txtsize_12">12sp</dimen>
+    <dimen name="txtsize_16">16sp</dimen>
+    <dimen name="txtsize_20">20sp</dimen>
+    <dimen name="txtsize_24">24sp</dimen>
+    <dimen name="txtsize_30">30sp</dimen>
+    <dimen name="txtsize_32">32sp</dimen>
+    <dimen name="txtsize_36">36sp</dimen>
+
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="circle_size">20dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="font_size">20sp</dimen>
+    <dimen name="login_title">32sp</dimen>
+    <dimen name="login_text">20sp</dimen>
+    <dimen name="text_size">32sp</dimen>
+</resources>
